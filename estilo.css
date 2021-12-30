@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(139, 139, 241);
+    color: burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+            width: 70%;
+            padding: 20px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            margin: 10px 0;
+}
+h1 {
+    color: rgb(125, 216, 5);
+}
+.valor1 {
+    background-color: rgb(61, 6, 112);
+    text-align: center;
+    }
+.operacoes {
+    background-color: rgb(61, 6, 112);
+    text-align: center;
+}
