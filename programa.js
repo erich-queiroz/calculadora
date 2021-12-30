@@ -1,3 +1,9 @@
+function pulaLinha() {
+    document.write("<br>");
+}
+function mostraTexto(texto) {
+    document.write(texto);
+}
 function somarValores(){
     let n1 = document.getElementById("v1").value;
     let n2 = document.getElementById("v2").value;
